@@ -1,17 +1,20 @@
 [{
   "id" : 1,
+  "sellRent" : 1,
   "name" : "Brandson house",
   "type" : "building",
   "price" : 1000
 },
 {
   "id" : 2,
+  "sellRent" : 2,
   "name" : "Willson house",
   "type" : "building",
   "price" : 1000
 },
 {
   "id" : 1,
+  "sellRent" : 1,
   "name" : "akson house",
   "type" : "building",
   "price" : 1000
